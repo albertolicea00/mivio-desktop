@@ -25,7 +25,7 @@ Describe the tests that you ran to verify your changes. Provide instructions so 
 - Run command: `npm run test`
 
 ### Manual Verification
-- [ ] Verified UI layouts via SwiftUI Previews
+- [ ] Verified UI layouts via hot-reload/dev server
 - [ ] Tested on simulator (specify platform)
 - [ ] Tested on physical device (specify platform)
 
