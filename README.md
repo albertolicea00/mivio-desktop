@@ -19,12 +19,15 @@ Mivio Desktop uses a highly customized hybrid architecture designed for maximum 
 
 ---
 
-## 🎨 Platform-Specific Experience Goals
+## 🎨 Platform Features & Limitations
 
-Mivio Desktop optimizes for mouse, keyboard, and flexible window management:
+Mivio Desktop optimizes for mouse, keyboard, and flexible window management, delivering the full desktop experience without limitations:
 
-- **Window Management**: Multi-column layouts, collapsible sidebars, resizable UI, and seamless fullscreen video modes.
-- **Desktop Integration**: System tray controls, global keyboard shortcuts, and drag-and-drop file/folder support for instant media parsing.
+- ✅ **Local Multi-Account**: Each user saves their progress independently on the same machine.
+- ✅ **Local File Reading & Writing**: Full access to the file system, including writing metadata and saving artwork.
+- ✅ **Home Server Client**: Fully connects to Plex, Jellyfin, and Emby.
+- ✅ **Metadata Management**: Sort and display metadata locally or from the server.
+- ✅ **Native Player**: Avoids HTML5 limitations by embedding a native **mpv / VLC backend** directly into Electron for flawless 4K HDR playback and subtitle rendering.
 
 ---
 
